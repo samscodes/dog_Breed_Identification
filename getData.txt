@@ -1,0 +1,4 @@
+The data his huge to be includes to the Github so you can download it from
+https://www.kaggle.com/c/dog-breed-identification/data
+
+and unzip it to the data folder
